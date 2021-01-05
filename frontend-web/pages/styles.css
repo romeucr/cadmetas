@@ -1,0 +1,24 @@
+.index-h1 {
+   margin-left: 85px;
+}
+
+.metas-container {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.meta-card {
+   width: 32%;
+   border-radius: 15px;
+   margin: 5px;
+}
+
+.card-body {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+.meta-card-header {
+   border-radius: 15px 15px 0 0 !important;
+}
