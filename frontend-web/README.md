@@ -29,4 +29,4 @@ Instalar o Bootstrap
 ### npm install --save bootstrap
 
 Instalar o Reactstrap
-### √
+###
