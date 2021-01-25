@@ -15,3 +15,7 @@ The project consists of:
 - HTML / CSS / JS
 - ReactJS
 - React Native
+
+
+### Database
+ - MongoDB
